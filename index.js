@@ -59,48 +59,23 @@ else{
 }
 */
 
-
-var d=1;
-while (d<=10)
-{
+var d = 1;
+while (d <= 10) {
   console.log(d);
-  d=d+1;
+  d = d + 1;
 }
 
-var i=1
-while (i<=10)
-{
-  console.log(i);
-  i=i+2;
+var i = 1;
+while (i <= 10) {
+  if (i % 2 === 0) {
+    console.log(i);
+    
+  }
+  i = i + 1;
 }
 
-var k=16;
-while (k<=28){
+var k = 16;
+while (k <= 28) {
   console.log(k);
-  k=k+1;
+  k = k + 1;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
