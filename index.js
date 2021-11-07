@@ -74,7 +74,11 @@ while (i<=10)
   i=i+2;
 }
 
-
+var k=16;
+while (k<=28){
+  console.log(k);
+  k=k+1;
+}
 
 
 
